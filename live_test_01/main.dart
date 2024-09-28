@@ -9,12 +9,5 @@ void main(){
   print('Year: ${myCar.year}');
   print('Car Age: ${myCar.carAge()} years');
 
-/*  Brand: Toyota
-
-  Model: Corolla
-
-  Year: 2015
-
-  Car Age: 9 years*/
 
 }
